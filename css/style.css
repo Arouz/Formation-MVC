@@ -1,0 +1,41 @@
+.btn-lower {
+  padding: 4px 10px;
+  font-size: 12px;
+  line-height: 1.15;
+  border-radius: 5px;
+}
+.btn-home {
+  padding-top: 12px;
+  font-size: 20px;
+  line-height: 1.15;
+}
+.tableau {
+	text-align: center;
+}
+.tableau2 {
+  text-align: center;
+  font-weight: bold;
+}
+.addj{
+	width: 100%;
+	margin-bottom: 3px;
+}
+.modal.fade:not(.in) .modal-dialog {
+    -webkit-transform: translate3d(0, 125%, 0);
+    transform: translate3d(0, 125%, 0);
+}
+.bgw {
+	background-color: white;
+}
+#fr {
+	color:#E50000;
+}
+.centertext {
+  text-align: center;
+}
+.cache {
+  display: none;
+}
+.ast {
+  color:#ff0000;
+}
